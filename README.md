@@ -1,4 +1,4 @@
-Synthetic Dataset for Risk Assessment and Loan Approval Modeling
+##Synthetic Dataset for Risk Assessment and Loan Approval Modeling##
 Overview
 This project utilizes a synthetic dataset of 20,000 records, designed to support the development of predictive models for risk assessment and loan approval decisions. The dataset includes a wide variety of personal, financial, and demographic features, making it an excellent foundation for data-driven decision-making processes.
 
