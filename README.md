@@ -1,12 +1,18 @@
-##Synthetic Dataset for Risk Assessment and Loan Approval Modeling##
+Synthetic Dataset for Risk Assessment and Loan Approval Modeling
+
 Overview
+
 This project utilizes a synthetic dataset of 20,000 records, designed to support the development of predictive models for risk assessment and loan approval decisions. The dataset includes a wide variety of personal, financial, and demographic features, making it an excellent foundation for data-driven decision-making processes.
+
+
+
 
 Objectives:
 Risk Score Prediction (Regression): Predict a continuous risk score reflecting the likelihood of loan default or financial instability.
 Loan Approval Prediction (Classification): Classify whether a loan application will be approved or denied.
 Dataset Details
 The dataset comprises 35 features, providing a comprehensive view of an applicant's financial and personal circumstances:
+
 
 Key Features:
 Demographic Information: Age, marital status, and number of dependents.
