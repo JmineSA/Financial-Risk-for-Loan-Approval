@@ -14,6 +14,8 @@ Dataset Details
 The dataset comprises 35 features, providing a comprehensive view of an applicant's financial and personal circumstances:
 
 
+
+
 Key Features:
 Demographic Information: Age, marital status, and number of dependents.
 Financial Metrics: Annual income, credit score, total assets, liabilities, and monthly income.
@@ -26,16 +28,22 @@ Project Results
 Classification Models:
 Models Used:
 
+
+
 XGBClassifier
 DecisionTreeClassifier
 Random Forest Classifier
 Top Model Performances:
+
+
 
 XGBClassifier: Accuracy = 99.67%
 DecisionTreeClassifier: Accuracy = 99.05%
 Random Forest: Accuracy = 98.73%
 Regression Model:
 For the Risk Score Prediction, a linear regression model was applied with the following insights:
+
+
 
 The regression model performs well overall, with reasonable predictive accuracy.
 The curve in the Actual vs. Predicted Values plot indicates non-linearity in the relationship between features and the target variable.
@@ -45,6 +53,8 @@ The residuals vs. predicted plot exhibits increasing variance at higher predicte
 Variance Inflation Factor (VIF) values are below 5 for all features, indicating no multicollinearity.
 Summary and Future Work
 Insights:
+
+
 
 The XGBClassifier showed the best performance for loan approval predictions, with an accuracy of 99.67%.
 The linear regression model provided meaningful results for risk score prediction but highlighted areas for improvement in addressing heteroscedasticity and non-linearity.
